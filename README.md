@@ -6,7 +6,7 @@ I used browser-history 0.3.2 library to get all history from all browsers in dev
 <br>
 
 
-|<img src="Images/history.png">|
+|<img src="Image/history.png">|
 |---------|
 | Browser histories with Timestamp |
 
@@ -20,7 +20,7 @@ With VirusTotal API, script is scanning all the URLs one by one with in every 15
 <br>
 When scanning completed for an URL, it'll show up like that in terminal:
 <br>
-|<img src="Images/scan.png">|
+|<img src="Image/scan.png">|
 |---------|
 | Scanned URL |
 <br> 
@@ -29,6 +29,6 @@ Sometimes VirusTotal couldn't find the URL if it's a search in Browser or any ot
 ### Saving the results to a file
 After the scannning completed for an URL. It writes the result to a file called "vt_results". It is decided by looking the "malicious" number in "last_analysis_stats". If "malicious" is more than 4, it'll be written as MALICIOUS. If "malicious" is 0, then it'll be NOT MALICIOUS
 
-|<img src="Images/vt_results.png">|<img src="Images/result.png">|
+|<img src="Image/vt_results.png">|<img src="Image/results.png">|
 |---------|---------|
 | File | Results |
