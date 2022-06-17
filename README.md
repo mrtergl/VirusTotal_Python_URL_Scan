@@ -27,7 +27,7 @@ When scanning completed for an URL, it'll show up like that in terminal:
 Sometimes VirusTotal couldn't find the URL if it's a search in Browser or any other circumstances.
 
 ### Saving the results to a file
-After the scannning completed for an URL. It writes the result to a file called "vt_results". It is decided by looking the "malicious" number in "last_analysis_stats". If "malicious" is more than 4 four, it'll be written as MALICIOUS. If "malicious" is 0, then it'll be NOT MALICIOUS
+After the scannning completed for an URL. It writes the result to a file called "vt_results". It is decided by looking the "malicious" number in "last_analysis_stats". If "malicious" is more than 4, it'll be written as MALICIOUS. If "malicious" is 0, then it'll be NOT MALICIOUS
 
 |<img src="Images/vt_results.png">|<img src="Images/result.png">|
 |---------|---------|
