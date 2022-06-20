@@ -4,7 +4,7 @@ Scanning all browser history URLs in VirusTotal with Python
 ## Necessary Libraries:
 | Library  | Code to install |
 | ------------- | ------------- |
-| browserhistory  | ``` pip install browserhistory ```  |
+| browser_history  | ``` pip install browser-history ```  |
 | pathlib2  | ``` pip install pathlib2 ```  |
 | pybase64  |``` pip install pybase64 ``` |
 | pandas |``` pip install pandas ``` |
