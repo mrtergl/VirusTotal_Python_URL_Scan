@@ -2,8 +2,8 @@
 Scanning all browser history URLs in VirusTotal with Python
 
 ## Necessary Libraries:
-1. browserhistory ``` pip install browserhistory ```
-2. James Monroe
+- browserhistory  ``` pip install browserhistory ```
+2. pathlib        ``` pip install pathlib ```
 3. John Quincy Adams
 4. 
 Some basic Git commands are:
