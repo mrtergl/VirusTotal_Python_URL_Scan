@@ -2,7 +2,7 @@
 Scanning all browser history URLs in VirusTotal with Python
 
 ## Necessary Libraries:
-- browserhistory  ``` pip install browserhistory ```
+| browserhistory|-----|  ``` pip install browserhistory ``` |
 2. pathlib        ``` pip install pathlib ```
 3. John Quincy Adams
 4. 
