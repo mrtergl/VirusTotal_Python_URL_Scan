@@ -2,8 +2,21 @@
 Scanning all browser history URLs in VirusTotal with Python
 
 ## Necessary Libraries:
-| browserhistory|-----|  ``` pip install browserhistory ``` |
-2. pathlib        ``` pip install pathlib ```
+| browserhistory|  ``` pip install browserhistory ``` |
+|---------|---------|
+| pathlib | ``` pip install browserhistory ``` |
+|---------|---------|
+| json |``` pip install browserhistory ``` |
+|---------|---------|
+| os |``` pip install browserhistory ``` |
+|---------|---------|
+| json |``` pip install browserhistory ``` |
+|---------|---------|
+| base64 |``` pip install browserhistory ``` |
+|---------|---------|
+| pandas |``` pip install browserhistory ``` |
+|---------|---------|
+
 3. John Quincy Adams
 4. 
 Some basic Git commands are:
