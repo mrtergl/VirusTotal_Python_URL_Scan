@@ -2,28 +2,15 @@
 Scanning all browser history URLs in VirusTotal with Python
 
 ## Necessary Libraries:
-| browserhistory|  ``` pip install browserhistory ``` |
-| pathlib | ``` pip install browserhistory ``` |
-|---------|---------|
-| json |``` pip install browserhistory ``` |
-|---------|---------|
+| Library  | Code to install |
+| ------------- | ------------- |
+| browserhistory  | ``` pip install browserhistory ```  |
+| pathlib2  | ``` pip install pathlib2 ```  |
 | os |``` pip install browserhistory ``` |
-|---------|---------|
-| json |``` pip install browserhistory ``` |
-|---------|---------|
-| base64 |``` pip install browserhistory ``` |
-|---------|---------|
-| pandas |``` pip install browserhistory ``` |
-|---------|---------|
+| pybase64  |``` pip install pybase64 ``` |
+| pandas |``` pip install pandas ``` |
+| requests | ```pip install requests ```|
 
-3. John Quincy Adams
-4. 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
 
 ### Getting Browser History
 I used browser-history 0.3.2 library to get all history from all browsers in device. Then saved into a csv file called "history.csv". Here is the example:
