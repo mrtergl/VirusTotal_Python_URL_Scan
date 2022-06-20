@@ -1,6 +1,18 @@
 # VirusTotal_Python_URL_Scan
 Scanning all browser history URLs in VirusTotal with Python
 
+## Necessary Libraries:
+1. browserhistory ``` pip install browserhistory ```
+2. James Monroe
+3. John Quincy Adams
+4. 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
 ### Getting Browser History
 I used browser-history 0.3.2 library to get all history from all browsers in device. Then saved into a csv file called "history.csv". Here is the example:
 <br>
