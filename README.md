@@ -6,7 +6,6 @@ Scanning all browser history URLs in VirusTotal with Python
 | ------------- | ------------- |
 | browserhistory  | ``` pip install browserhistory ```  |
 | pathlib2  | ``` pip install pathlib2 ```  |
-| os |``` pip install browserhistory ``` |
 | pybase64  |``` pip install pybase64 ``` |
 | pandas |``` pip install pandas ``` |
 | requests | ```pip install requests ```|
